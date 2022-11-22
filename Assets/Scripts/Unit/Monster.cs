@@ -7,7 +7,7 @@ public class Monster : Unit
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Hello main!");
+        Debug.Log("Hello уехЩ!");
     }
 
     // Update is called once per frame
